@@ -75,7 +75,4 @@ The dataset comprises **48,895 listings** from Airbnb, containing **16 columns**
 - `calculated_host_listings_count`: Total listings by the host (e.g., 1).
 - `availability_365`: Number of available booking days in a year (e.g., 365).
 
-## Installation
-To get started with the project, clone the repository:
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
+

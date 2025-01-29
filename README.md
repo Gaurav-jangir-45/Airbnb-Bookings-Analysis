@@ -1,7 +1,5 @@
 # Airbnb-Bookings-Analysis
 
-# Airbnb Bookings Analysis
-
 ## Overview
 Since its inception in 2008, Airbnb has transformed the way people travel, offering unique and personalized lodging experiences across the globe. This project explores and analyzes a dataset comprising approximately 49,000 listings across 16 columns to gain valuable insights into guest behavior, host performance, and overall market dynamics.
 
